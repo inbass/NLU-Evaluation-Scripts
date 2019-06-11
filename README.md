@@ -1,4 +1,4 @@
-# NLU-Evaluation-Scripts
+# NLU-Evaluation-Scripts (2019.06.11)
 Python scripts for automatically evaluating NLU services (API.ai, IBM Watson Conversation, Microsoft LUIS, RASA) based on the format used by [NLU-Evaluation-Corpora](https://github.com/sebischair/NLU-Evaluation-Corpora).
 
 ## Training
